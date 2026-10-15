@@ -1,0 +1,15 @@
+INVITACIÓN WEB — Sr. Fernando Portugal y acompañante
+
+Dirección prevista: https://estasinvitado-fernando-portugal.vercel.app/
+
+PUBLICACIÓN
+Publica el contenido completo de esta carpeta como un proyecto estático de Vercel, conservando assets/ e invitacion-config.js junto a index.html. El nombre de proyecto previsto es estasinvitado-fernando-portugal. Los enlaces existentes del PDF usan la dirección indicada; conservar ese nombre mantiene los enlaces. Esta carpeta está preparada para publicación, pero este script no publica ni cambia dominios.
+
+EDICIÓN
+Los textos de la tarjeta se editan en invitacion-config.js, dentro de window.INVITATION_DATA. No es necesario regenerar las fotografías. Conserva window.INVITATION_ASSETS y los nombres de archivos con hash. Volver a empaquetar regenera la configuración desde src/config/invitation.js.
+
+RECURSOS
+El HTML es pequeño: imágenes, audio, fuentes y código se sirven como archivos externos. Las fuentes OFL conservan las licencias junto a sus archivos. La música y los efectos comienzan al tocar el sobre. El navegador puede impedir cerrar automáticamente una pestaña abierta por el usuario.
+
+CACHÉ
+HTML y configuración se revalidan. Solo recursos con nombre versionado usan caché immutable.

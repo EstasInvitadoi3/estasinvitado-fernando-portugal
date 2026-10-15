@@ -1,0 +1,342 @@
+{
+  "generator": "invitation-static-web-v1",
+  "profile": "fernando-portugal",
+  "url": "https://estasinvitado-fernando-portugal.vercel.app/",
+  "initialCover": {
+    "file": "./assets/reference-sealed-72ef9639.webp",
+    "bytes": 159920
+  },
+  "totalBytesBeforeReport": 9707797,
+  "htmlBytes": 1876,
+  "resources": [
+    {
+      "path": "assets/index-BX84fiwU.js",
+      "bytes": 318118,
+      "sha256": "60ef41b3651c654d2b38ebc65b22b118c25ffdda161863cc2f339724c9b34723",
+      "kind": "bundle",
+      "immutable": true,
+      "source": "dist/assets/index-BX84fiwU.js"
+    },
+    {
+      "path": "assets/index-gr2Hd7uH.css",
+      "bytes": 46133,
+      "sha256": "cc4172e55290a6106df679af874d5f3a4625a0276661b924fc4d48f6b8a9bb85",
+      "kind": "bundle",
+      "immutable": true,
+      "source": "dist/assets/index-gr2Hd7uH.css"
+    },
+    {
+      "path": "assets/CombustionFX-C__O4zyy.js",
+      "bytes": 8013,
+      "sha256": "c6fef4fb25e3a697cf27baaf4c4639453e3a10b526e16340ad370222dcca7c2d",
+      "kind": "bundle",
+      "immutable": true,
+      "source": "dist/assets/CombustionFX-C__O4zyy.js"
+    },
+    {
+      "path": "assets/FarewellLettering-MOMVn7nY.js",
+      "bytes": 27074,
+      "sha256": "0bc5deaa1d74a3ba760866f4710dd8d76e6a935a42d6dcea727d984b51166bb7",
+      "kind": "bundle",
+      "immutable": true,
+      "source": "dist/assets/FarewellLettering-MOMVn7nY.js"
+    },
+    {
+      "path": "assets/fonts/Lora-Regular.ttf",
+      "bytes": 133888,
+      "sha256": "7ed00e7c9cdf16ab7e2fd2361fe45d4f0b61263cd60aae398b27b7ee08108827",
+      "kind": "dependency",
+      "immutable": false,
+      "source": "dist/assets/fonts/Lora-Regular.ttf"
+    },
+    {
+      "path": "assets/fonts/Lora-Bold.ttf",
+      "bytes": 133828,
+      "sha256": "7d74015e950c2fb66519c7295b8155621d22200ae2ca2a4c6b43ce3c490cac87",
+      "kind": "dependency",
+      "immutable": false,
+      "source": "dist/assets/fonts/Lora-Bold.ttf"
+    },
+    {
+      "path": "assets/fonts/Lora-Italic.ttf",
+      "bytes": 139328,
+      "sha256": "be627e595184e8afe521f08da0607eee613f1997d423bc8dadc5798995581377",
+      "kind": "dependency",
+      "immutable": false,
+      "source": "dist/assets/fonts/Lora-Italic.ttf"
+    },
+    {
+      "path": "assets/fonts/InstrumentSans-Regular.ttf",
+      "bytes": 68028,
+      "sha256": "a22cb26e48fd79bcb01bf2fc92d36785474dce36d9c544ab0a8868c2657c4a87",
+      "kind": "dependency",
+      "immutable": false,
+      "source": "dist/assets/fonts/InstrumentSans-Regular.ttf"
+    },
+    {
+      "path": "assets/fonts/InstrumentSans-Bold.ttf",
+      "bytes": 68084,
+      "sha256": "444f85bf1c4b0e1ce1ca624f6be54bcd832207714ccaf4ea99ee531341683bdf",
+      "kind": "dependency",
+      "immutable": false,
+      "source": "dist/assets/fonts/InstrumentSans-Bold.ttf"
+    },
+    {
+      "path": "assets/fonts/GreatVibes-Regular.ttf",
+      "bytes": 457588,
+      "sha256": "8d509802186f1b51572531ecf313e8098f9a5bfdfaca93f0c9b34467f9982d15",
+      "kind": "dependency",
+      "immutable": false,
+      "source": "dist/assets/fonts/GreatVibes-Regular.ttf"
+    },
+    {
+      "path": "assets/fonts/InstrumentSans-OFL.txt",
+      "bytes": 4403,
+      "sha256": "bf4dc6d13a8cccd4807133c77a1ee9619a16b92cb23322258725ab6731c2f6e5",
+      "kind": "license",
+      "immutable": false,
+      "source": "dist/assets/fonts/InstrumentSans-OFL.txt"
+    },
+    {
+      "path": "assets/fonts/Lora-OFL.txt",
+      "bytes": 4423,
+      "sha256": "62e37a82d3f1ef2a70712885fa8b3144b65fd144d8e748d6196b690a354d792c",
+      "kind": "license",
+      "immutable": false,
+      "source": "dist/assets/fonts/Lora-OFL.txt"
+    },
+    {
+      "path": "assets/fonts/OFL-GreatVibes.txt",
+      "bytes": 4399,
+      "sha256": "61093a21f5e63dedf54222b3c09997e54c0fe43e3851d21386e02ddcbc246d49",
+      "kind": "license",
+      "immutable": false,
+      "source": "dist/assets/fonts/OFL-GreatVibes.txt"
+    },
+    {
+      "path": "assets/reference-background-cabcff41.webp",
+      "bytes": 118522,
+      "sha256": "cabcff41f2c4b692d6330e7ba53f440235aacd692fee5a65fcfbe5a1f9b68118",
+      "kind": "media",
+      "immutable": true,
+      "source": "public/assets/web/reference-background.webp"
+    },
+    {
+      "path": "assets/reference-sealed-72ef9639.webp",
+      "bytes": 159920,
+      "sha256": "72ef9639f1c247780dc3df49f8d78786ae566136a689bc4b58f0e6d64ed3ea2c",
+      "kind": "media",
+      "immutable": true,
+      "source": "public/assets/web/reference-sealed.webp"
+    },
+    {
+      "path": "assets/reference-closed-94b51a0a.webp",
+      "bytes": 150300,
+      "sha256": "94b51a0a8c482da4c4e3abb983be17748591231a4a37aa09624a276b027f5bb3",
+      "kind": "media",
+      "immutable": true,
+      "source": "public/assets/web/reference-closed.webp"
+    },
+    {
+      "path": "assets/reference-open-5c2239dc.webp",
+      "bytes": 118654,
+      "sha256": "5c2239dc7d798ab115f36a2dbf7396300c4cb5de16e72971005ce8802d8615e0",
+      "kind": "media",
+      "immutable": true,
+      "source": "public/assets/web/reference-open.webp"
+    },
+    {
+      "path": "assets/dinner-ambience-d035cf41.webp",
+      "bytes": 94068,
+      "sha256": "d035cf41666e888ad241be287c2baf026ad3ad85a2d15f009a5aebc979d8ca7a",
+      "kind": "media",
+      "immutable": true,
+      "source": "public/assets/web/dinner-ambience.webp"
+    },
+    {
+      "path": "assets/burnt-remains-a516f474.webp",
+      "bytes": 469926,
+      "sha256": "a516f474d18d1c0f06bd1338b112bc285fc58bef5d802a5d36bac86fa1ded05a",
+      "kind": "media",
+      "immutable": true,
+      "source": "public/assets/web/burnt-remains.webp"
+    },
+    {
+      "path": "assets/fire-atlas-v2-b5d606aa.webp",
+      "bytes": 518454,
+      "sha256": "b5d606aa1343aedf035c208d99d7a01ad185bd5d99095e6a2271f2eb2a6ec555",
+      "kind": "media",
+      "immutable": true,
+      "source": "public/assets/web/fire-atlas-v2.webp"
+    },
+    {
+      "path": "assets/smoke-atlas-v2-f45079ca.webp",
+      "bytes": 492330,
+      "sha256": "f45079ca0001c9fa981e3395d198c51d0576fb7a11827cbf039956ed39937cbe",
+      "kind": "media",
+      "immutable": true,
+      "source": "public/assets/web/smoke-atlas-v2.webp"
+    },
+    {
+      "path": "assets/romantic-music-88a47f64.mp3",
+      "bytes": 5074978,
+      "sha256": "88a47f6415f95e3c758116584d88bf53935a03b593949a4ea4c4516c1182779f",
+      "kind": "media",
+      "immutable": true,
+      "source": "public/assets/romantic-music.mp3"
+    },
+    {
+      "path": "assets/envelope-open-3b2b05dd.mp3",
+      "bytes": 18060,
+      "sha256": "3b2b05dd402127a6ee15f33c5c6690568f389848b1a8d11d6d70cab7d0268bd4",
+      "kind": "media",
+      "immutable": true,
+      "source": "public/assets/envelope-open.mp3"
+    },
+    {
+      "path": "assets/paper-slide-630ac68a.mp3",
+      "bytes": 37161,
+      "sha256": "630ac68a95829c9b04cd981b8e8249efb2a03947a95f05ff4296b2e5169e1c82",
+      "kind": "media",
+      "immutable": true,
+      "source": "public/assets/paper-slide.mp3"
+    },
+    {
+      "path": "assets/fire-whoosh-47dee6aa.mp3",
+      "bytes": 926321,
+      "sha256": "47dee6aa6ee5ec0d3136aee0255789833dcaaff27c1334e82ffaa016efb1d7c4",
+      "kind": "media",
+      "immutable": true,
+      "source": "public/assets/fire-whoosh.mp3"
+    },
+    {
+      "path": "assets/fire-crackle-6ff4a584.mp3",
+      "bytes": 104959,
+      "sha256": "6ff4a584043904a34ffed867986736267975849bd56961ff0cbbd224f440ac42",
+      "kind": "media",
+      "immutable": true,
+      "source": "public/assets/fire-crackle.mp3"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1876,
+      "sha256": "d290d1631b1b2ce5a6acad07d51d62396abbec03a932b2092a1dffa161fbb84a",
+      "kind": "document",
+      "immutable": false
+    },
+    {
+      "path": "invitacion-config.js",
+      "bytes": 1635,
+      "sha256": "5732033a6b6ab0d776667009bd1c35545ef197a691f0e3a64a45652ebcc025e4",
+      "kind": "document",
+      "immutable": false
+    },
+    {
+      "path": "vercel.json",
+      "bytes": 6063,
+      "sha256": "06b60b387cb78b48417befdb3b017e9d6ad11b98469683347c64f28ad5001eca",
+      "kind": "document",
+      "immutable": false
+    },
+    {
+      "path": "LEEME.txt",
+      "bytes": 1263,
+      "sha256": "8c1f800708cbdf8a09916334de41b0ef22ae2ca95d0523b72036aee059c02ac7",
+      "kind": "document",
+      "immutable": false
+    }
+  ],
+  "media": [
+    {
+      "logicalName": "reference-background.webp",
+      "file": "assets/reference-background-cabcff41.webp",
+      "bytes": 118522,
+      "originalBytes": 204124,
+      "optimized": true
+    },
+    {
+      "logicalName": "reference-sealed.webp",
+      "file": "assets/reference-sealed-72ef9639.webp",
+      "bytes": 159920,
+      "originalBytes": 273342,
+      "optimized": true
+    },
+    {
+      "logicalName": "reference-closed.webp",
+      "file": "assets/reference-closed-94b51a0a.webp",
+      "bytes": 150300,
+      "originalBytes": 262716,
+      "optimized": true
+    },
+    {
+      "logicalName": "reference-open.webp",
+      "file": "assets/reference-open-5c2239dc.webp",
+      "bytes": 118654,
+      "originalBytes": 217042,
+      "optimized": true
+    },
+    {
+      "logicalName": "dinner-ambience.webp",
+      "file": "assets/dinner-ambience-d035cf41.webp",
+      "bytes": 94068,
+      "originalBytes": 94068,
+      "optimized": true
+    },
+    {
+      "logicalName": "burnt-remains.webp",
+      "file": "assets/burnt-remains-a516f474.webp",
+      "bytes": 469926,
+      "originalBytes": 1330556,
+      "optimized": true
+    },
+    {
+      "logicalName": "fire-atlas-v2.webp",
+      "file": "assets/fire-atlas-v2-b5d606aa.webp",
+      "bytes": 518454,
+      "originalBytes": 518454,
+      "optimized": true
+    },
+    {
+      "logicalName": "smoke-atlas-v2.webp",
+      "file": "assets/smoke-atlas-v2-f45079ca.webp",
+      "bytes": 492330,
+      "originalBytes": 492330,
+      "optimized": true
+    },
+    {
+      "logicalName": "romantic-music.mp3",
+      "file": "assets/romantic-music-88a47f64.mp3",
+      "bytes": 5074978,
+      "originalBytes": 5074978,
+      "optimized": false
+    },
+    {
+      "logicalName": "envelope-open.mp3",
+      "file": "assets/envelope-open-3b2b05dd.mp3",
+      "bytes": 18060,
+      "originalBytes": 18060,
+      "optimized": false
+    },
+    {
+      "logicalName": "paper-slide.mp3",
+      "file": "assets/paper-slide-630ac68a.mp3",
+      "bytes": 37161,
+      "originalBytes": 37161,
+      "optimized": false
+    },
+    {
+      "logicalName": "fire-whoosh.mp3",
+      "file": "assets/fire-whoosh-47dee6aa.mp3",
+      "bytes": 926321,
+      "originalBytes": 926321,
+      "optimized": false
+    },
+    {
+      "logicalName": "fire-crackle.mp3",
+      "file": "assets/fire-crackle-6ff4a584.mp3",
+      "bytes": 104959,
+      "originalBytes": 104959,
+      "optimized": false
+    }
+  ]
+}
